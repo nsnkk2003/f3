@@ -1,5 +1,7 @@
-Pipeline{
-agent any{
+Pipeline 
+{
+agent any
+{
     stage("build")
     {
         echo "build"
